@@ -13,3 +13,9 @@ A low-code application built with **Power Apps** and **SharePoint** to manage vi
 -  SharePoint-integrated tracking list to log all past visits for auditing and reporting
 -  Restrict manual edits on issued/returned fields based on toggle status
 -  Form-based UI with optional approval logic (if extended)
+## Map
+├── visitor-registration-app/
+│   ├── VisitorApp.msapp
+│   ├── README.md
+│   └── screenshots/
+│       └── samples.png
