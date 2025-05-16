@@ -1,7 +1,7 @@
 
 # **Visitor Registration App**
 
-A low-code application built with **Power Apps** and **SharePoint** to manage visitor check-in/check-out activities at the workplace. This app streamlines the visitor registration process and provides a historical tracking list for security or administrative reviews.
+A low-code application built with **Power Apps** and **SharePoint** to manage visitor check-in/check-out activities at the workplace. This app streamlines the visitor registration process and provides a historical tracking list for security or administrative reviews. Especially, this app is responsive and can use on mobile, laptop, Smart TV 
 
 ---
 
